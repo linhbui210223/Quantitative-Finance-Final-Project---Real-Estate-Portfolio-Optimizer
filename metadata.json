@@ -1,0 +1,5 @@
+{
+  "name": "Real Estate Portfolio Optimizer",
+  "description": "A financial modeling tool to optimize real estate investment portfolios based on NPV, capital constraints, and financing parameters.",
+  "requestFramePermissions": []
+}
